@@ -1,4 +1,5 @@
 File Hider Project using Java and MySQL
+
 Welcome to the File Hider project tutorial! In this guide, we will walk you through the process of creating a secure file hider application using Java and MySQL. This project not only helps you enhance your Java programming skills but also provides valuable experience in implementing essential security features, including email authentication, login functionality, and encryption.
 
 Project Overview
@@ -16,5 +17,3 @@ File Encryption:
 
 Explore encryption techniques to safeguard user files, ensuring that they remain confidential and secure.
 User-Friendly Interface:
-
-Create an intuitive and user-friendly interface to enhance the overall user experience.
